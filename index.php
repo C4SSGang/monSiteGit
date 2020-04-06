@@ -27,6 +27,15 @@
         </div>
         <button type="submit" class="btn btn-dark">Envoyer</button>
 
+        <hr class="col-md-2 mx-auto bg-secondary">
+
+        <ul class="list-group">
+            <li class="list-group-item">Incapable : Macron</li>
+            <li class="list-group-item">Incapable : Philippe</li>
+            <li class="list-group-item">Incapable : Castaner</li>
+            <li class="list-group-item">Incapable : Buzyn</li>
+        </ul>
+
     
     </form>
 </body>
