@@ -7,6 +7,9 @@
     <title>MonSiteGithub</title>
 </head>
 <body>
-    <h1 class="col-md-8 display-4 text-center alert alert-danger mt-3">Plein le cul du confinement!</h1>
+    <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger mt-3">Plein le cul du confinement!</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae modi odio, porro possimus atque, dicta aut debitis dolore iure perspiciatis et. Adipisci iste expedita, corrupti alias dolorem blanditiis dolores hic?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, veritatis dolor quisquam assumenda quia odio dolore porro magnam, labore, iure eum cum architecto! Autem obcaecati accusantium incidunt sit voluptate Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit adipisci voluptates sit, nihil modi nemo sapiente itaque maxime accusantium consectetur nesciunt qui. Est ut magnam porro doloremque dicta in vitae!</p>
 </body>
 </html>
